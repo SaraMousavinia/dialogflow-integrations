@@ -25,7 +25,7 @@ app.use(express.json());
 // Upon closure the webhook is removed from spark
 
 // Insert your values here
-const sparkAccessToken ='Place your spark personal access token here';
+const sparkAccessToken ='M2JkYmY4NDEtYzdjZC00MTc2LTgyMTUtMTM5NjEwNWQwOTY1NTkxZTcyYWMtNTA4_P0A1_25eb6d88-0b51-4573-acbe-e42515fcc3e0';
 const targetUrl = 'Place you servers URL here';
 const projectId = 'bright-seer-415620';
 
